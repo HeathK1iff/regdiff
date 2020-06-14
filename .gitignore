@@ -1,0 +1,9 @@
+/__recovery
+/__history
+/Win32
+*.dcu
+*.dproj
+*.dproj.local
+*.identcache
+*.res
+*.skincfg
